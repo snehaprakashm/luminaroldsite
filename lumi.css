@@ -1,0 +1,68 @@
+.heading {
+    margin-left: -60px;
+    top:-453px;
+    position: absolute;
+
+}
+
+.heading{
+width: 500px;
+}
+.p2{
+    width: 400px;
+}
+.secndhead {
+    margin-left:-50px;
+    top:-460px;
+    position: absolute;
+    width: 500px;
+}
+h2{
+    color: rgba(89, 5, 97, 0.829);
+}
+h6{
+    color: rgba(129, 12, 123, 0.514);
+}
+button{
+    
+}
+.im1{
+    width:100%;
+}
+h5{
+    color: rgb(88, 7, 82);
+}
+h3{
+    
+}
+.im2{
+    width: 100%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.im4{
+    width: 100%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.im3{
+width: 100%;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.bck{
+    background-color: rgba(212, 201, 201, 0.295);
+}.col-6{
+    background-color: white;
+}
+.b2{
+    background-color: rgb(133, 10, 122);
+    width: 30%;
+    padding: 1%;
+    color: white;
+}
+.b3{
+    background-color:rgb(133, 10, 122);
+    width: 30%;
+    padding: 1%;
+    margin-top: 48px;
+    color: white;
+}
+
