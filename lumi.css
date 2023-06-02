@@ -1,22 +1,24 @@
+/*
 .heading {
-    margin-left: -60px;
-    top:-453px;
-    position: absolute;
+    margin-left: -65px;
+    top:300px
+   position: absolute;
+   width: 600px;
+    
 
-}
-
-.heading{
-width: 500px;
-}
-.p2{
-    width: 400px;
 }
 .secndhead {
     margin-left:-50px;
-    top:-460px;
+    top:-368px;
     position: absolute;
-    width: 500px;
-}
+    width: 700px;
+    
+}*/
+
+
+
+
+
 h2{
     color: rgba(89, 5, 97, 0.829);
 }
@@ -28,6 +30,7 @@ button{
 }
 .im1{
     width:100%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 h5{
     color: rgb(88, 7, 82);
@@ -65,4 +68,90 @@ box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     margin-top: 48px;
     color: white;
 }
+h3{
+    text-align: center;
+}
+.l1{
+   
+        background-color: rgb(78, 9, 110);
+        width: 20%;
+        font-weight: bolder;
+        border:rgb(103, 13, 145) ;
+        border-radius: 24px;
+        padding: 2%;
+        color: aliceblue;
+        position: sticky;
+        top: 10px;
+        
+}
+.l2{
+   
+    background-color: rgb(78, 9, 110);
+    width: 15%;
+    font-weight: bolder;
+    border:rgb(103, 13, 145) ;
+    border-radius: 24px;
+    padding: 2%;
+    color: aliceblue;
+    position: sticky;
+    top: 10px;
+    
+}
+.lm1{
+    height: 500px;
+    width: 100%;
+}
+#r1:hover{
+    box-shadow: 0 0 10px rgba(0,0,0,0.6);
+    -moz-box-shadow: 0 0 10px rgba(0,0,0,0.6);
+    -webkit-box-shadow: 0 0 10px rgba(0,0,0,0.6);
+    -o-box-shadow: 0 0 10px rgba(0,0,0,0.6);
+      scale: 1.01;
+  }
+  #top1{
+    height: 2.5px;
+  }
+.hh1 h1{
+    margin-left: -60px;
+    font-size: 50px;
+    position: absolute;
+    top: -294px;
+    text-align: start;   
+}
+.hh1{
+    width: 550px;
+}
+.hh1 p{
+    text-align: start;
+}
+.pp1{
+    text-align: start;
+    position: absolute;
+    top: -148px;
+    left: -50px;
+  } 
+  .hh2 h1{
+    margin-left: -60px;
+    font-size: 50px;
+    position: absolute;
+    top: -306px;
+    text-align: start;
+  }
+  .pp2
+{
+  text-align: start;
+  position: absolute;
+  top: -178px;
+  left: -55px;
+}
+.card:hover{
+    box-shadow: 0 0 10px rgba(0,0,0,0.6);
+    -moz-box-shadow: 0 0 10px rgba(0,0,0,0.6);
+    -webkit-box-shadow: 0 0 10px rgba(0,0,0,0.6);
+    -o-box-shadow: 0 0 10px rgba(0,0,0,0.6);
+      scale: 1.01;
+  }
 
+ .head3{
+    
+ }
